@@ -1,7 +1,7 @@
 
 # ¡Hola soy Judith 👩‍🚀!
 
-Soy Diseñadora Web, por lo que como no, me apasiona el CSS ( + SCSS ) 🎨 
+Soy Product Designer, por lo que como no, me apasiona el CSS ( + SCSS ) 🎨 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sitetive.com/)
 
@@ -13,7 +13,7 @@ Soy Diseñadora Web, por lo que como no, me apasiona el CSS ( + SCSS ) 🎨
 
 ```bash
     ⛵ Freelance
-    🐈‍⬛ Kewomedia
+    
 ```
 
 
