@@ -44,7 +44,7 @@ Soy Product Designer, por lo que como no, me apasiona el CSS ( + SCSS ) 🎨
 
 ### Contacta conmigo 
 
- 📬 _judith@sitetive.com_
+ 📬 _sitetive@gmail.com_
 
  💼 _www.linkedin.com/in/judithjbn_
 
