@@ -1,7 +1,6 @@
 
 # ¡Hola soy Judith 👩‍🚀!
 
-Soy Product Designer, por lo que como no, me apasiona el CSS ( + SCSS ) 🎨 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sitetive.com/)
 
