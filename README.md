@@ -13,7 +13,6 @@
 ```bash
     ⛵ Freelance
     🤖🏋️ Dev FITT App
-    
 ```
 
 
