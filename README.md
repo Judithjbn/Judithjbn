@@ -11,8 +11,8 @@
 #### Ahora trabajo para ⬇️
 
 ```bash
-    ⛵ Iterem
-    🤖🏋️ Dev FITT App
+    ⛵ Me encuentro en búsqueda activa de trabajo.
+    🤖🏋️ Además hago proyectos personales para seguir aprendiendo cada día!
 ```
 
 
